@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-webapp",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A template for Web app"
+}
